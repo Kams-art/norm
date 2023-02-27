@@ -21,5 +21,6 @@ in order to ensure the comprehension of every reader, the code need to be clean 
 # file norm
 
 - norm of dart
-- name of file : camelcase
-- name of function : snake_case
+- file : snake_case
+- function : snake_case
+- varibale: camelcase
