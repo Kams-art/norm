@@ -24,4 +24,4 @@ in order to ensure the comprehension of every reader, the code need to be clean 
 - file : snake_case
 - function : snake_case
 - varibale: camelcase
-- repository: Maj & lowercase and -
+- repository: lowercase + "-"
